@@ -12,9 +12,8 @@ struct HomeView: View {
     @EnvironmentObject var model : ContentModel
     
     var body: some View {
-       
-        Text("Hello World")
-            .padding()
+       Text("Hello World")
+        .padding()
         
     }
 }
