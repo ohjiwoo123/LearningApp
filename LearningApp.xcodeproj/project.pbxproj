@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7035E0C3261DA8AD00728CEE /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7035E0C2261DA8AD00728CEE /* RectangleCard.swift */; };
 		7038B149261B0BE1006D282C /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7038B148261B0BE1006D282C /* LearningApp.swift */; };
 		7038B14B261B0BE1006D282C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7038B14A261B0BE1006D282C /* HomeView.swift */; };
 		7038B14D261B0BE1006D282C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7038B14C261B0BE1006D282C /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7035E0C2261DA8AD00728CEE /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		7038B145261B0BE1006D282C /* LearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7038B148261B0BE1006D282C /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		7038B14A261B0BE1006D282C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				70514767261C632600743F70 /* ContentViewRow.swift */,
 				7051476A261C789500743F70 /* ContentDetailView.swift */,
 				7083CFEC261CF35F00BFFC74 /* CodeTextView.swift */,
+				7035E0C2261DA8AD00728CEE /* RectangleCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				7083CFED261CF35F00BFFC74 /* CodeTextView.swift in Sources */,
 				7038B165261B0DA7006D282C /* ContentModel.swift in Sources */,
 				7038B16D261B1401006D282C /* Models.swift in Sources */,
+				7035E0C3261DA8AD00728CEE /* RectangleCard.swift in Sources */,
 				70514771261C825000743F70 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
