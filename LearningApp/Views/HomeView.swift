@@ -30,7 +30,7 @@ struct HomeView: View {
                             NavigationLink(
                                 destination: ContentView()
                                     .onAppear(perform: {
-                                        model.beginModule(moduleid: module.id)
+                                        model.beginModule(module.id)
                                     }),
                                 label : {
                                     

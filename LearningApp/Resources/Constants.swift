@@ -9,5 +9,5 @@ import Foundation
 
 struct Constants {
     
-    static var videoHostUrl = "https://github.com/codewithchris/learningJSON"
+    static var videoHostUrl = "https://codewithchris.github.io/learningJSON/"
 }

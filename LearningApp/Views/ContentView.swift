@@ -28,7 +28,7 @@ struct ContentView: View {
                         NavigationLink (
                             destination: ContentDetailView()
                                 .onAppear(perform: {
-                                    model.beginLesson(lessonIndex: index)
+                                    model.beginLesson(index)
                                 }),
                             label: {
                                 ContentViewRow(index: index)
