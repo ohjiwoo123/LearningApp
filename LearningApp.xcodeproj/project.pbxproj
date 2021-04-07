@@ -23,6 +23,7 @@
 		7051476F261C817200743F70 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7051476E261C817200743F70 /* AVKit.framework */; };
 		70514771261C825000743F70 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70514770261C825000743F70 /* Constants.swift */; };
 		7083CFED261CF35F00BFFC74 /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7083CFEC261CF35F00BFFC74 /* CodeTextView.swift */; };
+		70A14944261E520300DC2CE9 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A14943261E520300DC2CE9 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		7051476E261C817200743F70 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		70514770261C825000743F70 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		7083CFEC261CF35F00BFFC74 /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
+		70A14943261E520300DC2CE9 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				70514764261C59CA00743F70 /* ContentView.swift */,
 				70514767261C632600743F70 /* ContentViewRow.swift */,
 				7051476A261C789500743F70 /* ContentDetailView.swift */,
+				70A14943261E520300DC2CE9 /* TestView.swift */,
 				7083CFEC261CF35F00BFFC74 /* CodeTextView.swift */,
 				7035E0C2261DA8AD00728CEE /* RectangleCard.swift */,
 			);
@@ -225,6 +228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70A14944261E520300DC2CE9 /* TestView.swift in Sources */,
 				7038B14B261B0BE1006D282C /* HomeView.swift in Sources */,
 				70514762261BF78E00743F70 /* HomeViewRow.swift in Sources */,
 				70514765261C59CA00743F70 /* ContentView.swift in Sources */,
